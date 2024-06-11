@@ -64,5 +64,4 @@ class ClapDetectionService {
 }
 
 void lockDevice() {
-  // Android kilitleme kodunu buraya ekleyin
 }
